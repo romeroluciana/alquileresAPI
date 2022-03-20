@@ -2,6 +2,7 @@
 # Alquileres
 Aplicación que permite crear, leer, actualizar y eliminar un registro de inquilinos.
 **[Accedé acá](https://romeroluciana.github.io/alquileresAPI/)**
+
 **[API](https://mockapi.io/clone/5fada5eb2ec98b001604891c)**
 
 
